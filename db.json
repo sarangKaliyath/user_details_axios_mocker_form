@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "name": "John Doe",
+      "age": "91",
+      "salary": "10000",
+      "address": "add ress jon doe",
+      "department": "B",
+      "maritalStatus": true,
+      "image": "C:\\fakepath\\ap11.jpg",
+      "id": "1tp"
+    },
+    {
+      "name": "Jane Doe",
+      "age": "19",
+      "address": "Fake Address",
+      "salary": "11000",
+      "department": "C",
+      "maritalStatus": true,
+      "image": "C:\\fakepath\\ap11.jpg",
+      "id": "m2l"
+    },
+    {
+      "name": "Alpha",
+      "age": "31",
+      "address": "Alpha Address",
+      "salary": "9000",
+      "department": "A",
+      "maritalStatus": true,
+      "image": "C:\\fakepath\\ap11.jpg",
+      "id": "9Oy"
+    },
+    {
+      "name": "Bravo",
+      "age": "31",
+      "address": "Bravo Address",
+      "salary": "19000",
+      "department": "B",
+      "maritalStatus": false,
+      "image": "C:\\fakepath\\ap11.jpg",
+      "id": "2l1"
+    },
+    {
+      "name": "Charlie",
+      "age": "32",
+      "address": "Charlie Add",
+      "salary": "20000",
+      "department": "C",
+      "maritalStatus": false,
+      "image": "C:\\fakepath\\ap11.jpg",
+      "id": "odN"
+    },
+    {
+      "name": "Delta",
+      "age": "32",
+      "address": "Delta",
+      "salary": "40000",
+      "department": "C",
+      "maritalStatus": true,
+      "image": "C:\\fakepath\\ap11.jpg",
+      "id": "QWV"
+    },
+    {
+      "name": "Echo",
+      "age": "33",
+      "address": "echo address",
+      "department": "A",
+      "salary": "18000",
+      "maritalStatus": true,
+      "image": "C:\\fakepath\\virtual.png",
+      "id": "SCv"
+    },
+    {
+      "name": "Foxtrot",
+      "age": "33",
+      "address": "Foxtrot Address",
+      "department": "B",
+      "salary": "17000",
+      "maritalStatus": false,
+      "image": "C:\\fakepath\\ap11.jpg",
+      "id": "Hc3"
+    }
+  ]
+}
